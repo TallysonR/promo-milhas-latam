@@ -1,4 +1,4 @@
-"""Avaliação bem-humorada de viabilidade para resgate de passagens."""
+"""Avaliação de viabilidade para resgate de passagens."""
 
 
 def analisar_viabilidade(saldo_milhas: int) -> str:
